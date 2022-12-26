@@ -29,6 +29,14 @@ We are going to make a ticket as an end user and resolve the ticket as an agent.
 
 <h3>Intake</h3>
 
+First make some tickets as end users via http://localhost/osTicket/. Login in through the credentials you had made for the users in the last part.
+
+For example Zuquan might have been getting lots of reports of 404 errors. 
+
+    
+
+
+
 
 
 <h3>Assignment and Communication</h3>
