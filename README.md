@@ -33,14 +33,25 @@ First make some tickets as end users via http://localhost/osTicket/. Login in th
 
 For example Zuquan might have been getting lots of reports of 404 errors. 
 
-    
+<img src="https://i.imgur.com/kAA387C.png" width="80%" alt="Searching for VM"/>
 
+Create two more tickets out of the help topics.
 
-
-
+Like Personal Computer Issues ,General Inquiry, Equipment Request, Password reset.
+<img src="https://i.imgur.com/LDW6mPI.png" width="80%" alt="Searching for VM"/>
+<img src="https://i.imgur.com/LbTXThm.png" width="80%" alt="Searching for VM"/>
 
 <h3>Assignment and Communication</h3>
-
+<img src="" width="80%" alt="Searching for VM"/>
+<img src="" width="80%" alt="Searching for VM"/>
+<img src="" width="80%" alt="Searching for VM"/>
 <h3>Working the Issue</h3>
-
+<img src="" width="80%" alt="Searching for VM"/>
+<img src="" width="80%" alt="Searching for VM"/>
+<img src="" width="80%" alt="Searching for VM"/>
+<img src="" width="80%" alt="Searching for VM"/>
 <h3>Resolution</h3>
+<img src="" width="80%" alt="Searching for VM"/>
+<img src="" width="80%" alt="Searching for VM"/>
+<img src="" width="80%" alt="Searching for VM"/>
+<img src="" width="80%" alt="Searching for VM"/>
