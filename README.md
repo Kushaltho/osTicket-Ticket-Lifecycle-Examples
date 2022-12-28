@@ -49,7 +49,15 @@ Go back to the agent panel using this link http://localhost/osTicket/scp/login.p
 
 <img src="https://i.imgur.com/MJrLcal.png" width="80%" alt="Searching for VM"/>
 
+
+<img src="https://i.imgur.com/ZJefOaR.png" width="80%" alt="Searching for VM"/>
+
 <img src="" width="80%" alt="Searching for VM"/>
+
+<img src="" width="80%" alt="Searching for VM"/>
+
+<img src="" width="80%" alt="Searching for VM"/>
+
 <img src="" width="80%" alt="Searching for VM"/>
 
 
