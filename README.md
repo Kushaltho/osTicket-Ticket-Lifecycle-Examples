@@ -36,6 +36,7 @@ For example Zuquan might have been getting lots of reports of 404 errors.
 <img src="https://i.imgur.com/kAA387C.png" width="80%" alt="Searching for VM"/>
 
 Create two more tickets out of the help topics like Personal Computer Issues ,General Inquiry, Equipment Request, Password reset. Can also use different users. 
+
 <img src="https://i.imgur.com/LDW6mPI.png" width="80%" alt="Searching for VM"/>
 <img src="https://i.imgur.com/LbTXThm.png" width="80%" alt="Searching for VM"/>
 
@@ -52,13 +53,33 @@ Go back to the agent panel using this link http://localhost/osTicket/scp/login.p
 
 <img src="https://i.imgur.com/ZJefOaR.png" width="80%" alt="Searching for VM"/>
 
-<img src="" width="80%" alt="Searching for VM"/>
+Now our job as an agent would be to make sure that the tickets have the appropriate agent/worker and SLA/priority in the order of when it came.
+
+If it can be resolved by the agent looking though the ticket then they can assing it to themself.
+
+
+
+<img src="https://i.imgur.com/IEGp2to.png" width="80%" alt="Searching for VM"/>
+
+<img src="https://i.imgur.com/mv73dgS.png" width="80%" alt="Searching for VM"/>
+
+<img src="https://i.imgur.com/9L0i6oZ.png" width="80%" alt="Searching for VM"/>
+
+<img src="https://i.imgur.com/h5eJttR.png" width="80%" alt="Searching for VM"/>
+
+<img src="https://i.imgur.com/tYLjqfW.png" width="80%" alt="Searching for VM"/>
+
+
+Since an entire deparament's work is impeded the assingments should be high. And we will assing another agent for this ticket.
+
+<img src="https://i.imgur.com/AzocZfw.png" width="80%" alt="Searching for VM"/>
+
+<img src="https://i.imgur.com/TtcpDB1.png" width="80%" alt="Searching for VM"/>
 
 <img src="" width="80%" alt="Searching for VM"/>
 
 <img src="" width="80%" alt="Searching for VM"/>
 
-<img src="" width="80%" alt="Searching for VM"/>
 
 
 
