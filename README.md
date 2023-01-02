@@ -51,7 +51,7 @@ Go back to the agent panel using this link http://localhost/osTicket/scp/login.p
 <img src="https://i.imgur.com/MJrLcal.png" width="80%" alt="Searching for VM"/>
 
 
-<img src="https://i.imgur.com/ZJefOaR.png" width="80%" alt="Searching for VM"/>
+<img src="https://i.imgur.com/3LrKHFP.png" width="80%" alt="Searching for VM"/>
 
 Now our job as an agent would be to make sure that the tickets have the appropriate agent/worker and SLA/priority in the order of when it came.
 
@@ -67,33 +67,53 @@ If it can be resolved by the agent looking though the ticket then they can assin
 
 <img src="https://i.imgur.com/h5eJttR.png" width="80%" alt="Searching for VM"/>
 
-<img src="https://i.imgur.com/tYLjqfW.png" width="80%" alt="Searching for VM"/>
 
 
-Since an entire deparament's work is impeded the assingments should be high. And we will assing another agent for this ticket.
+Since an entire deparament's work is impeded the assingments should be high. And we will assign another agent for this ticket.
 
-<img src="https://i.imgur.com/AzocZfw.png" width="80%" alt="Searching for VM"/>
 
-<img src="https://i.imgur.com/TtcpDB1.png" width="80%" alt="Searching for VM"/>
+We will also assign one of the tickets to another agent as an agent.
+<img src="https://i.imgur.com/n36IweR.png" width="80%" alt="Searching for VM"/>
 
-<img src="" width="80%" alt="Searching for VM"/>
+<img src="https://i.imgur.com/zxOL8zh.png" width="80%" alt="Searching for VM"/>
 
-<img src="" width="80%" alt="Searching for VM"/>
+This is what it would look like everything was assinged properly. Although you would normally just work through the ticket all at once if possible.
+
+<img src="https://i.imgur.com/ZAGpjyX.png" width="80%" alt="Searching for VM"/>
+
+
 
 
 
 
 <h3>Working the Issue</h3>
+SEV-A Ticket
 
-<img src="" width="80%" alt="Searching for VM"/>
-<img src="" width="80%" alt="Searching for VM"/>
-<img src="" width="80%" alt="Searching for VM"/>
-<img src="" width="80%" alt="Searching for VM"/>
+<img src="https://i.imgur.com/tYLjqfW.png" width="80%" alt="Searching for VM"/>
+
+SEV-B Ticket
+
+Since we assigned the ticket to Eveyln it is best pratice to write down the changes you made and give a warm hand-off to the person. Which would mean Kevin calling  Eveyln and confriming with her before assigning the ticket to her. 
+
+<img src="https://i.imgur.com/7JUkgkn.png" width="80%" alt="Searching for VM"/>
+
+<img src="https://i.imgur.com/jKMxxrv.png" width="80%" alt="Searching for VM"/>
 
 
 <h3>Resolution</h3>
 
-<img src="" width="80%" alt="Searching for VM"/>
-<img src="" width="80%" alt="Searching for VM"/>
-<img src="" width="80%" alt="Searching for VM"/>
-<img src="" width="80%" alt="Searching for VM"/>
+
+SEV-A Ticket
+
+
+<img src="https://i.imgur.com/JithoNY.png" width="80%" alt="Searching for VM"/>
+
+SEV-B Ticket
+
+<img src="https://i.imgur.com/w1Dy9Ro.png" width="80%" alt="Searching for VM"/>
+
+SEV-C Ticket
+
+Since Kevin knew how to resolve the problem , he didn't need to assign it to someone else or give them an update while try to figure the solution.
+
+<img src="https://i.imgur.com/KptsPvs.png" width="80%" alt="Searching for VM"/>
