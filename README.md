@@ -7,6 +7,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 We are going to make a ticket as an end user and resolve the ticket as an agent.
 <br />
+<h2>Before Starting, Finish:</h2>
+
+[osTicket: Post-Installation Configuration](https://github.com/Kushaltho/post-install-config)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -55,7 +58,7 @@ Go back to the agent panel using this link http://localhost/osTicket/scp/login.p
 
 Now our job as an agent would be to make sure that the tickets have the appropriate agent/worker and SLA/priority in the order of when it came.
 
-If it can be resolved by the agent looking though the ticket then they can assing it to themself.
+If it can be resolved by the agent looking though the ticket then they can assign it to themself.
 
 
 
@@ -69,7 +72,7 @@ If it can be resolved by the agent looking though the ticket then they can assin
 
 
 
-Since an entire deparament's work is impeded the assingments should be high. And we will assign another agent for this ticket.
+Since an entire department's work is impeded, the assignments should be high. And we will assign another agent for this ticket.
 
 
 We will also assign one of the tickets to another agent as an agent.
@@ -77,7 +80,7 @@ We will also assign one of the tickets to another agent as an agent.
 
 <img src="https://i.imgur.com/zxOL8zh.png" width="80%" alt="Searching for VM"/>
 
-This is what it would look like everything was assinged properly. Although you would normally just work through the ticket all at once if possible.
+This is what it would look like if everything was assigned properly. Although you would normally just work through the ticket all at once if possible.
 
 <img src="https://i.imgur.com/ZAGpjyX.png" width="80%" alt="Searching for VM"/>
 
@@ -93,7 +96,7 @@ SEV-A Ticket
 
 SEV-B Ticket
 
-Since we assigned the ticket to Eveyln it is best pratice to write down the changes you made and give a warm hand-off to the person. Which would mean Kevin calling  Eveyln and confriming with her before assigning the ticket to her. 
+Since we assigned the ticket to Eveyln it is best practice to write down the changes you made and give a warm hand-off to the person. Which would mean Kevin calling  Eveyln and confirming with her before assigning the ticket to her. 
 
 <img src="https://i.imgur.com/7JUkgkn.png" width="80%" alt="Searching for VM"/>
 
@@ -114,6 +117,11 @@ SEV-B Ticket
 
 SEV-C Ticket
 
-Since Kevin knew how to resolve the problem , he didn't need to assign it to someone else or give them an update while try to figure the solution.
+Since Kevin knew how to resolve the problem , he didn't need to assign it to someone else or give them an update while trying to figure out the solution.
 
 <img src="https://i.imgur.com/KptsPvs.png" width="80%" alt="Searching for VM"/>
+
+<h2>Finished</h2>
+By completing this tutorial, you should now have a deeper understanding of osTickets and how they function from both the user and agent perspectives. You should also know how to configure user and agent settings to meet your needs, as well as how to effectively handle tickets as an agent.
+
+
